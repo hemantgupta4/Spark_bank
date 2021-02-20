@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ffffff;
+}
+
+h1{
+    font-size: 500%;
+    font-family: Courgette, Redressed, Sofia;
+    font-weight: 400;
+    color: #050505f5;
+}
+
+img{
+    width: 85%;
+}
+
+.row-content{
+    position: relative;
+    top: 80px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 280%;
+}
+
+#foundation{
+    color: rgb(46, 43, 46);
+}
+
+a{
+    position: relative;
+    font-family: Sofia;
+    top: -60px;
+    left: 280px;
+    width: 140px;
+    height: 48px;
+}
+
+a:hover{
+    color: #00B55A  !important;
+    background: #f30606f5 !important;
+}
